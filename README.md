@@ -1,4 +1,4 @@
-
+#  智慧中国杯  金融算法资格赛
 
 [DataCastle 的用户贷款风险预测比赛链接](http://www.pkbigdata.com/common/cmpt/%E7%94%A8%E6%88%B7%E8%B4%B7%E6%AC%BE%E9%A3%8E%E9%99%A9%E9%A2%84%E6%B5%8B_%E5%8F%82%E8%B5%9B%E4%B8%8E%E7%BB%84%E9%98%9F.html#teamStandard)
 
