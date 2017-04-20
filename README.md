@@ -1,4 +1,4 @@
-@Author:liujun:冒菜。
+@Author:(liujun,冒菜。)
 
 #  智慧中国杯  金融算法资格赛
 
